@@ -4,11 +4,12 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=70&section=header&reversal=true&text=Olá,%20eu%20sou%20o%20Léo!%20👋&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=onedark" />
 </div>
 
+
 ---
+
 
 ## Ciência de Dados | Análise de Dados | Business Intelligence
 
----
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60"/>
@@ -27,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </div>
 
----
 
 ## 📌 Contatos
 
@@ -43,16 +43,5 @@
   </a>
 </div>
 
----
 
-## 🕹️ Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github.com/LeonardoGuerraSales/LeonardoGuerraSales/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://github.com/LeonardoGuerraSales/LeonardoGuerraSales/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" 
-    src="https://github.com/LeonardoGuerraSales/LeonardoGuerraSales/blob/output/github-contribution-grid-snake.svg">
-</picture>
 
